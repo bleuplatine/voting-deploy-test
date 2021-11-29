@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/voting-deploy-test/static/css/main.4a4137e4.chunk.css",
+    "main.js": "/voting-deploy-test/static/js/main.0ae4e7c3.chunk.js",
+    "main.js.map": "/voting-deploy-test/static/js/main.0ae4e7c3.chunk.js.map",
+    "runtime-main.js": "/voting-deploy-test/static/js/runtime-main.7b265b94.js",
+    "runtime-main.js.map": "/voting-deploy-test/static/js/runtime-main.7b265b94.js.map",
+    "static/css/2.f6fa2274.chunk.css": "/voting-deploy-test/static/css/2.f6fa2274.chunk.css",
+    "static/js/2.1abfc2ee.chunk.js": "/voting-deploy-test/static/js/2.1abfc2ee.chunk.js",
+    "static/js/2.1abfc2ee.chunk.js.map": "/voting-deploy-test/static/js/2.1abfc2ee.chunk.js.map",
+    "index.html": "/voting-deploy-test/index.html",
+    "static/css/2.f6fa2274.chunk.css.map": "/voting-deploy-test/static/css/2.f6fa2274.chunk.css.map",
+    "static/css/main.4a4137e4.chunk.css.map": "/voting-deploy-test/static/css/main.4a4137e4.chunk.css.map",
+    "static/js/2.1abfc2ee.chunk.js.LICENSE.txt": "/voting-deploy-test/static/js/2.1abfc2ee.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/voting-deploy-test/static/media/bootstrap-icons.ea6f3dfe.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b265b94.js",
+    "static/css/2.f6fa2274.chunk.css",
+    "static/js/2.1abfc2ee.chunk.js",
+    "static/css/main.4a4137e4.chunk.css",
+    "static/js/main.0ae4e7c3.chunk.js"
+  ]
+}
